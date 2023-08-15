@@ -1,16 +1,45 @@
-### Hi there 👋
+# Hi there! 👋 I'm Mazen!
 
-<!--
-**mazenwkamel/mazenwkamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate software engineering student at the University of Calgary with a diverse background. I spent two enriching years at the American University in Cairo, honing my skills and expanding my knowledge. I'm deeply enthusiastic about creating elegant solutions and meaningful experiences through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Programming Languages**: ![C#](https://img.shields.io/badge/-C%23-green) ![.NET Framework](https://img.shields.io/badge/-.NET%20Framework-blue) ![Python](https://img.shields.io/badge/-Python-yellow) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![ExtendScript](https://img.shields.io/badge/-ExtendScript-green) ![PowerShell](https://img.shields.io/badge/-PowerShell-blue)
+- **Web Development**: ![HTML5](https://img.shields.io/badge/-HTML5-red) ![CSS3](https://img.shields.io/badge/-CSS3-blue) ![ReactJS](https://img.shields.io/badge/-ReactJS-blue) ![Angular](https://img.shields.io/badge/-Angular-red) 
+- **Desktop Applications**: ![WPF](https://img.shields.io/badge/-WPF-purple) ![Windows Services](https://img.shields.io/badge/-Windows%20Services-orange) 
+- **Game Development**: ![Unity 2D](https://img.shields.io/badge/-Unity%202D-orange) ![Unity 3D](https://img.shields.io/badge/-Unity%203D-green) 
+- **Design Tools**: ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-blue) ![Adobe Premiere](https://img.shields.io/badge/-Adobe%20Premiere-blue) ![Blender](https://img.shields.io/badge/-Blender-orange) ![AutoCAD Mechanical](https://img.shields.io/badge/-AutoCAD%20Mechanical-red)
+
+## Passion and Focus
+
+I have a strong interest in the intersection of technology, design, and user experience. My dedication to crafting clean and efficient code is matched by my enthusiasm for creating intuitive and visually appealing user interfaces. I believe that a well-designed application, combined with robust code, can have a lasting impact on user satisfaction.
+
+## Multilingual Skills
+
+I'm proficient in English and Arabic, allowing me to communicate and collaborate with a diverse range of individuals effectively.
+
+## Projects and Contributions
+
+Throughout my academic journey and personal exploration, I've had the privilege of working on a variety of projects that showcase my skills and dedication. Some highlights include:
+
+- Developed interactive and visually engaging applications using C#, WPF, and .NET Framework.
+- Created dynamic web experiences using ReactJS and Angular, ensuring seamless user interactions.
+- Contributed to the world of game development through Unity, crafting both 2D and 3D experiences.
+- Leveraged my design expertise to enhance projects using Adobe Photoshop, Premiere, Blender, and AutoCAD Mechanical.
+- Explored automation and scripting with PowerShell and ExtendScript, streamlining processes and enhancing efficiency.
+
+## Let's Connect!
+
+I'm always excited to connect with fellow developers, designers, and tech enthusiasts. Feel free to reach out to me through my GitHub profile or connect with me on [LinkedIn](https://www.linkedin.com/in/mazenwkamel).
+
+Looking forward to collaborating and creating amazing things together!
+
+![Alt Text](link-to-image) <!-- You can add an image that represents you or your work here -->
+
+*Note: This README is a living document and will evolve as my skills and experiences continue to grow.*
+
+---
+
+*Inspired by code, driven by design.*
