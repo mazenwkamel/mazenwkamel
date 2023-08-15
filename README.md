@@ -4,9 +4,8 @@
 
 I'm a passionate software engineering student at the University of Calgary with a diverse background. I spent two enriching years at the American University in Cairo, honing my skills and expanding my knowledge. I'm deeply enthusiastic about creating elegant solutions and meaningful experiences through code.
 <!-- simpleicons.org -->
-## Skills
+## Technologies
 
-- **Programming Languages**:
   ![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -16,23 +15,19 @@ I'm a passionate software engineering student at the University of Calgary with 
   ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
   ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-- **Web Development**:
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-- **Desktop Applications**:
   ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
   ![Windows Services](https://img.shields.io/badge/Windows%20services-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
   ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
   
 
-- **Game Development**:
   ![Unity 2D](https://img.shields.io/badge/unity2d-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
   ![Unity 3D](https://img.shields.io/badge/unity3d-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-- **Technologies**:
   ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
   ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
   ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
