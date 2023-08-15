@@ -50,7 +50,7 @@ Throughout my academic journey and personal exploration, I've had the privilege 
 - Developed interactive and visually engaging applications using ![C#](https://img.shields.io/badge/-C%23-green), ![WPF](https://img.shields.io/badge/-WPF-purple), and ![.NET Framework](https://img.shields.io/badge/-.NET%20Framework-blue).
 - Created dynamic web experiences using ![ReactJS](https://img.shields.io/badge/-ReactJS-blue) and ![Angular](https://img.shields.io/badge/-Angular-red), ensuring seamless user interactions.
 - Contributed to the world of game development through ![Unity 2D](https://img.shields.io/badge/-Unity%202D-orange) and ![Unity 3D](https://img.shields.io/badge/-Unity%203D-green), crafting both 2D and 3D experiences.
-- Leveraged my design expertise to enhance projects using ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-blue), ![Adobe Premiere](https://img.shields.io/badge/-Adobe%20Premiere-blue), ![Blender](https://img.shields.io/badge/-Blender-orange), and ![AutoCAD Mechanical](https://img.shields.io/badge/-AutoCAD%20Mechanical-red).
+- Leveraged my design expertise to enhance projects using ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-blue), ![Adobe Premiere](https://img.shields.io/badge/-Adobe%20Premiere-blue), and ![Blender](https://img.shields.io/badge/-Blender-orange).
 - Explored automation and scripting with ![PowerShell](https://img.shields.io/badge/-PowerShell-blue) and ![ExtendScript](https://img.shields.io/badge/-ExtendScript-green), streamlining processes and enhancing efficiency.
 
 ## Let's Connect!
