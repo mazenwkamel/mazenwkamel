@@ -6,11 +6,33 @@ I'm a passionate software engineering student at the University of Calgary with 
 
 ## Skills
 
-- **Programming Languages**: ![C#](https://img.shields.io/badge/-C%23-green) ![.NET Framework](https://img.shields.io/badge/-.NET%20Framework-blue) ![Python](https://img.shields.io/badge/-Python-yellow) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow) ![ExtendScript](https://img.shields.io/badge/-ExtendScript-green) ![PowerShell](https://img.shields.io/badge/-PowerShell-blue)
-- **Web Development**: ![HTML5](https://img.shields.io/badge/-HTML5-red) ![CSS3](https://img.shields.io/badge/-CSS3-blue) ![ReactJS](https://img.shields.io/badge/-ReactJS-blue) ![Angular](https://img.shields.io/badge/-Angular-red) 
-- **Desktop Applications**: ![WPF](https://img.shields.io/badge/-WPF-purple) ![Windows Services](https://img.shields.io/badge/-Windows%20Services-orange) 
-- **Game Development**: ![Unity 2D](https://img.shields.io/badge/-Unity%202D-orange) ![Unity 3D](https://img.shields.io/badge/-Unity%203D-green) 
-- **Design Tools**: ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-blue) ![Adobe Premiere](https://img.shields.io/badge/-Adobe%20Premiere-blue) ![Blender](https://img.shields.io/badge/-Blender-orange) ![AutoCAD Mechanical](https://img.shields.io/badge/-AutoCAD%20Mechanical-red)
+- **Programming Languages**:
+  ![C#](https://img.shields.io/badge/-C%23-green)
+  ![.NET Framework](https://img.shields.io/badge/-.NET%20Framework-blue)
+  ![Python](https://img.shields.io/badge/-Python-yellow)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  ![ExtendScript](https://img.shields.io/badge/-ExtendScript-green)
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-blue)
+
+- **Web Development**:
+  ![HTML5](https://img.shields.io/badge/-HTML5-red)
+  ![CSS3](https://img.shields.io/badge/-CSS3-blue)
+  ![ReactJS](https://img.shields.io/badge/-ReactJS-blue)
+  ![Angular](https://img.shields.io/badge/-Angular-red)
+
+- **Desktop Applications**:
+  ![WPF](https://img.shields.io/badge/-WPF-purple)
+  ![Windows Services](https://img.shields.io/badge/-Windows%20Services-orange)
+
+- **Game Development**:
+  ![Unity 2D](https://img.shields.io/badge/-Unity%202D-orange)
+  ![Unity 3D](https://img.shields.io/badge/-Unity%203D-green)
+
+- **Design Tools**:
+  ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-blue)
+  ![Adobe Premiere](https://img.shields.io/badge/-Adobe%20Premiere-blue)
+  ![Blender](https://img.shields.io/badge/-Blender-orange)
+  ![AutoCAD Mechanical](https://img.shields.io/badge/-AutoCAD%20Mechanical-red)
 
 ## Passion and Focus
 
@@ -18,17 +40,17 @@ I have a strong interest in the intersection of technology, design, and user exp
 
 ## Multilingual Skills
 
-I'm proficient in English and Arabic, allowing me to communicate and collaborate with a diverse range of individuals effectively.
+I'm proficient in both English and Arabic, allowing me to communicate and collaborate with a diverse range of individuals effectively.
 
 ## Projects and Contributions
 
 Throughout my academic journey and personal exploration, I've had the privilege of working on a variety of projects that showcase my skills and dedication. Some highlights include:
 
-- Developed interactive and visually engaging applications using C#, WPF, and .NET Framework.
-- Created dynamic web experiences using ReactJS and Angular, ensuring seamless user interactions.
-- Contributed to the world of game development through Unity, crafting both 2D and 3D experiences.
-- Leveraged my design expertise to enhance projects using Adobe Photoshop, Premiere, Blender, and AutoCAD Mechanical.
-- Explored automation and scripting with PowerShell and ExtendScript, streamlining processes and enhancing efficiency.
+- Developed interactive and visually engaging applications using ![C#](https://img.shields.io/badge/-C%23-green), ![WPF](https://img.shields.io/badge/-WPF-purple), and ![.NET Framework](https://img.shields.io/badge/-.NET%20Framework-blue).
+- Created dynamic web experiences using ![ReactJS](https://img.shields.io/badge/-ReactJS-blue) and ![Angular](https://img.shields.io/badge/-Angular-red), ensuring seamless user interactions.
+- Contributed to the world of game development through ![Unity 2D](https://img.shields.io/badge/-Unity%202D-orange) and ![Unity 3D](https://img.shields.io/badge/-Unity%203D-green), crafting both 2D and 3D experiences.
+- Leveraged my design expertise to enhance projects using ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-blue), ![Adobe Premiere](https://img.shields.io/badge/-Adobe%20Premiere-blue), ![Blender](https://img.shields.io/badge/-Blender-orange), and ![AutoCAD Mechanical](https://img.shields.io/badge/-AutoCAD%20Mechanical-red).
+- Explored automation and scripting with ![PowerShell](https://img.shields.io/badge/-PowerShell-blue) and ![ExtendScript](https://img.shields.io/badge/-ExtendScript-green), streamlining processes and enhancing efficiency.
 
 ## Let's Connect!
 
