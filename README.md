@@ -7,18 +7,18 @@ I'm a passionate software engineering student at the University of Calgary with 
 ## Skills
 
 - **Programming Languages**:
-  ![C#](https://img.shields.io/badge/https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png-C%23-green)
-  ![.NET Framework](https://img.shields.io/badge/-.NET%20Framework-blue)
-  ![Python](https://img.shields.io/badge/-Python-yellow)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  ![ExtendScript](https://img.shields.io/badge/-ExtendScript-green)
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-blue)
+  ![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![ExtendScript](https://img.shields.io/badge/-ExtendScript-green)](https://img.shields.io/badge/extendscript-%23510f17.svg?style=for-the-badge&logo=adobe&logoColor=white)
+  ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 - **Web Development**:
   ![HTML5](https://img.shields.io/badge/-HTML5-red)
   ![CSS3](https://img.shields.io/badge/-CSS3-blue)
   ![ReactJS](https://img.shields.io/badge/-ReactJS-blue)
-  ![Angular](https://img.shields.io/badge/-Angular-red)
+  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 - **Desktop Applications**:
   ![WPF](https://img.shields.io/badge/-WPF-purple)
@@ -29,6 +29,7 @@ I'm a passionate software engineering student at the University of Calgary with 
   ![Unity 3D](https://img.shields.io/badge/-Unity%203D-green)
 
 - **Design Tools**:
+  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
   ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-blue)
   ![Adobe Premiere](https://img.shields.io/badge/-Adobe%20Premiere-blue)
   ![Blender](https://img.shields.io/badge/-Blender-orange)
