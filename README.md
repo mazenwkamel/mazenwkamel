@@ -64,8 +64,6 @@ I'm always excited to connect with fellow developers, designers, and tech enthus
 
 Looking forward to collaborating and creating amazing things together!
 
-![Alt Text](link-to-image) <!-- You can add an image that represents you or your work here -->
-
 *Note: This README is a living document and will evolve as my skills and experiences continue to grow.*
 
 ---
