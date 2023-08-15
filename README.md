@@ -3,7 +3,7 @@
 ## About Me
 
 I'm a passionate software engineering student at the University of Calgary with a diverse background. I spent two enriching years at the American University in Cairo, honing my skills and expanding my knowledge. I'm deeply enthusiastic about creating elegant solutions and meaningful experiences through code.
-
+<!-- simpleicons.org -->
 ## Skills
 
 - **Programming Languages**:
@@ -23,9 +23,9 @@ I'm a passionate software engineering student at the University of Calgary with 
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 - **Desktop Applications**:
-  ![WPF](https://img.shields.io/badge/-WPF-purple)
-  ![Windows Services](https://img.shields.io/badge/-Windows%20Services-purple)
-  ![ASP.NET](https://img.shields.io/badge/-ASP.NET-purple)
+  ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![Windows Services](https://img.shields.io/badge/Windows%20services-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
   
 
 - **Game Development**:
