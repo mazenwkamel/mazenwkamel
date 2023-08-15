@@ -7,7 +7,7 @@ I'm a passionate software engineering student at the University of Calgary with 
 ## Skills
 
 - **Programming Languages**:
-  ![C#](https://img.shields.io/badge/-C%23-green)
+  ![C#](https://img.shields.io/badge/https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png-C%23-green)
   ![.NET Framework](https://img.shields.io/badge/-.NET%20Framework-blue)
   ![Python](https://img.shields.io/badge/-Python-yellow)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
