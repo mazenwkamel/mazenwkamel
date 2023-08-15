@@ -11,13 +11,15 @@ I'm a passionate software engineering student at the University of Calgary with 
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![ExtendScript](https://img.shields.io/badge/extendscript-%23510f17.svg?style=for-the-badge&logo=adobe&logoColor=white)
   ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+  ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 - **Web Development**:
-  ![HTML5](https://img.shields.io/badge/-HTML5-red)
-  ![CSS3](https://img.shields.io/badge/-CSS3-blue)
-  ![ReactJS](https://img.shields.io/badge/-ReactJS-blue)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 - **Desktop Applications**:
@@ -25,15 +27,16 @@ I'm a passionate software engineering student at the University of Calgary with 
   ![Windows Services](https://img.shields.io/badge/-Windows%20Services-orange)
 
 - **Game Development**:
-  ![Unity 2D](https://img.shields.io/badge/-Unity%202D-orange)
-  ![Unity 3D](https://img.shields.io/badge/-Unity%203D-green)
+  ![Unity 2D](https://img.shields.io/badge/unity2d-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+  ![Unity 3D](https://img.shields.io/badge/unity3d-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
-- **Design Tools**:
+- **Technologies**:
   ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-  ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-blue)
-  ![Adobe Premiere](https://img.shields.io/badge/-Adobe%20Premiere-blue)
-  ![Blender](https://img.shields.io/badge/-Blender-orange)
-  ![AutoCAD Mechanical](https://img.shields.io/badge/-AutoCAD%20Mechanical-red)
+  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+  ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ## Passion and Focus
 
