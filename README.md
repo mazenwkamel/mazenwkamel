@@ -24,7 +24,9 @@ I'm a passionate software engineering student at the University of Calgary with 
 
 - **Desktop Applications**:
   ![WPF](https://img.shields.io/badge/-WPF-purple)
-  ![Windows Services](https://img.shields.io/badge/-Windows%20Services-orange)
+  ![Windows Services](https://img.shields.io/badge/-Windows%20Services-purple)
+  ![ASP.NET](https://img.shields.io/badge/-ASP.NET-purple)
+  
 
 - **Game Development**:
   ![Unity 2D](https://img.shields.io/badge/unity2d-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
