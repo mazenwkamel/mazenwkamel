@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate software engineering student at the University of Calgary with a diverse background. I spent two enriching years at the American University in Cairo, honing my skills and expanding my knowledge. I'm deeply enthusiastic about creating elegant solutions and meaningful experiences through code.
+I'm a passionate electronics & software engineering student at the American University in Cairo with a diverse background. I spent an at the University of Calgary in Canada, honing my skills and expanding my knowledge. I'm deeply enthusiastic about creating elegant solutions and meaningful experiences.
 <!-- simpleicons.org -->
 ## Technologies
 
